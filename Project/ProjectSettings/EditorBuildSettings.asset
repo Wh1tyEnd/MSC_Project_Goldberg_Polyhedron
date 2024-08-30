@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Start.unity
+    guid: 4f3544e55fc364a4eb92f04bfeaa62dc
+  - enabled: 1
+    path: Assets/Scene/polyhedron.unity
+    guid: c261204da03094f4b990c68d28555ba2
+  m_configObjects: {}
